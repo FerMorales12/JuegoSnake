@@ -1,0 +1,9 @@
+c:\users\eddyg\documents\visual studio 2013\Projects\GameSnake\GameSnake\bin\Debug\GameSnake.exe.config
+c:\users\eddyg\documents\visual studio 2013\Projects\GameSnake\GameSnake\bin\Debug\GameSnake.exe
+c:\users\eddyg\documents\visual studio 2013\Projects\GameSnake\GameSnake\bin\Debug\GameSnake.pdb
+c:\users\eddyg\documents\visual studio 2013\Projects\GameSnake\GameSnake\obj\Debug\GameSnake.csprojResolveAssemblyReference.cache
+c:\users\eddyg\documents\visual studio 2013\Projects\GameSnake\GameSnake\obj\Debug\GameSnake.Form1.resources
+c:\users\eddyg\documents\visual studio 2013\Projects\GameSnake\GameSnake\obj\Debug\GameSnake.Properties.Resources.resources
+c:\users\eddyg\documents\visual studio 2013\Projects\GameSnake\GameSnake\obj\Debug\GameSnake.csproj.GenerateResource.Cache
+c:\users\eddyg\documents\visual studio 2013\Projects\GameSnake\GameSnake\obj\Debug\GameSnake.exe
+c:\users\eddyg\documents\visual studio 2013\Projects\GameSnake\GameSnake\obj\Debug\GameSnake.pdb
